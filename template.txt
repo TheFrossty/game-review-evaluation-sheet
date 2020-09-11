@@ -1,14 +1,14 @@
 ---{Graphics}---
 ☐ You forget what reality is
 ☐ Beautiful
-☐ Good
+☑ Good
 ☐ Decent
 ☐ Bad
 ☐ Don‘t look too long at it
 ☐ MS-DOS
 
 ---{Gameplay}---
-☐ Very good
+☑ Very good
 ☐ Good
 ☐ It‘s just gameplay
 ☐ Mehh
@@ -17,7 +17,7 @@
 
 ---{Audio}---
 ☐ Eargasm
-☐ Very good
+☑ Very good
 ☐ Good
 ☐ Not too bad
 ☐ Bad
@@ -27,12 +27,12 @@
 ☐ Kids
 ☐ Teens
 ☐ Adults
-☐ All
+☑ All
 
 ---{PC Requirements}---
 ☐ Check if you can run paint
 ☐ Potato
-☐ Decent
+☑ Decent
 ☐ Fast
 ☐ Rich boi
 ☐ Ask NASA if they have a spare computer
@@ -41,20 +41,20 @@
 ☐ Just press 'W'
 ☐ Easy
 ☐ Significant brain usage
-☐ Easy to learn / Hard to master
+☑ Easy to learn / Hard to master
 ☐ Difficult
 ☐ Dark Souls
 
 ---{Grind}---
 ☐ Nothing to grind
-☐ Only if u care about leaderboards/ranks
+☑ Only if u care about leaderboards/ranks
 ☐ Isnt necessary to progress
 ☐ Average grind level
 ☐ Too much grind
 ☐ You‘ll need a second live for grinding
 
 ---{Story}---
-☐ No Story
+☑ No Story
 ☐ Some lore
 ☐ Average
 ☐ Good
@@ -66,17 +66,17 @@
 ☐ Short
 ☐ Average
 ☐ Long
-☐ To infinity and beyond
+☑ To infinity and beyond
 
 ---{Price}---
 ☐ It’s free!
-☐ Worth the price
+☑ Worth the price
 ☐ If u have some spare money left
 ☐ Not recommended
 ☐ You could also just burn your money
 
 ---{Bugs}---
-☐ Never heard of
+☑ Never heard of
 ☐ Minor bugs
 ☐ Can get annoying
 ☐ ARK: Survival Evolved
